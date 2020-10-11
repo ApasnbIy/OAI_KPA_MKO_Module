@@ -1,0 +1,6 @@
+Added Pin To Net: NetName=MKO_Addr_0 Pin=U6-A7
+Added Net: Name=MKO_Addr_0
+Added Pin To Net: NetName=MKO_Addr_1 Pin=U6-A6
+Added Net: Name=MKO_Addr_1
+Added Pin To Net: NetName=MKO_Addr_2 Pin=U6-A5
+Added Net: Name=MKO_Addr_2

@@ -1,0 +1,15 @@
+Added Component: Designator=X13(PLD2-10)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Назначение"; Value = "Header, 10-Pin, Single row SCH Dual row PCB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Наименование"; Value = "PLD2-10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Потребление, Вт"; Value = "0,0"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetU6_J1 Pin=X13-1
+Added Pin To Net: NetName=NetU6_J2 Pin=X13-2
+Added Pin To Net: NetName=NetU6_J3 Pin=X13-3
+Added Pin To Net: NetName=NetU6_J4 Pin=X13-4
+Added Pin To Net: NetName=NetU6_J5 Pin=X13-5
+Added Pin To Net: NetName=NetU6_J6 Pin=X13-6
+Added Pin To Net: NetName=NetU6_J7 Pin=X13-7
+Added Pin To Net: NetName=NetU6_J8 Pin=X13-8
+Added Pin To Net: NetName=NetU6_J9 Pin=X13-9
+Added Pin To Net: NetName=NetU6_J10 Pin=X13-10

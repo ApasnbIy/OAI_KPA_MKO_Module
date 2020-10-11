@@ -1,0 +1,440 @@
+Change Component Designator: OldDesignator=C9 NewDesignator=C11
+Change Component Designator: OldDesignator=C10 NewDesignator=C9
+Change Component Designator: OldDesignator=C11 NewDesignator=C10
+Change Component Designator: OldDesignator=C25 NewDesignator=C28
+Change Component Designator: OldDesignator=C26 NewDesignator=C25
+Change Component Designator: OldDesignator=C27 NewDesignator=C26
+Change Component Designator: OldDesignator=C28 NewDesignator=C27
+Change Component Designator: OldDesignator=R21 NewDesignator=R22
+Change Component Designator: OldDesignator=R22 NewDesignator=R21
+Change Component Designator: OldDesignator=R23 NewDesignator=R27
+Change Component Designator: OldDesignator=R24 NewDesignator=R23
+Change Component Designator: OldDesignator=R25 NewDesignator=R24
+Change Component Designator: OldDesignator=R26 NewDesignator=R30
+Change Component Designator: OldDesignator=R27 NewDesignator=R25
+Change Component Designator: OldDesignator=R28 NewDesignator=R26
+Change Component Designator: OldDesignator=R29 NewDesignator=R28
+Change Component Designator: OldDesignator=R30 NewDesignator=R33
+Change Component Designator: OldDesignator=R31 NewDesignator=R29
+Change Component Designator: OldDesignator=R32 NewDesignator=R31
+Change Component Designator: OldDesignator=R33 NewDesignator=R32
+Change Component Designator: OldDesignator=R36 NewDesignator=R37
+Change Component Designator: OldDesignator=R37 NewDesignator=R38
+Change Component Designator: OldDesignator=R38 NewDesignator=R39
+Change Component Designator: OldDesignator=R39 NewDesignator=R40
+Change Component Designator: OldDesignator=R40 NewDesignator=R41
+Change Component Designator: OldDesignator=R41 NewDesignator=R36
+Change Component Designator: OldDesignator=X4 NewDesignator=X10
+Change Component Designator: OldDesignator=X5 NewDesignator=X11
+Change Component Designator: OldDesignator=X6 NewDesignator=X4
+Change Component Designator: OldDesignator=X7 NewDesignator=X5
+Change Component Designator: OldDesignator=X8 NewDesignator=X6
+Change Component Designator: OldDesignator=X9 NewDesignator=X7
+Change Component Designator: OldDesignator=X10 NewDesignator=X8
+Change Component Designator: OldDesignator=X11 NewDesignator=X9
+Added Component: Designator=C47(SMD_0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "0,1мкФ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Назначение"; Value = "SMD-конденсатор"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Наименование"; Value = "Конденсатор"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Потребление, Вт"; Value = "0"; VariantName = "[No Variations]"
+Added Component: Designator=C48(SMD_0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "0,1мкФ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Назначение"; Value = "SMD-конденсатор"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Наименование"; Value = "Конденсатор"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Потребление, Вт"; Value = "0"; VariantName = "[No Variations]"
+Added Component: Designator=C49(SMD_0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "0,1мкФ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Назначение"; Value = "SMD-конденсатор"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Наименование"; Value = "Конденсатор"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Потребление, Вт"; Value = "0"; VariantName = "[No Variations]"
+Added Component: Designator=C50(SMD_0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "0,1мкФ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Назначение"; Value = "SMD-конденсатор"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Наименование"; Value = "Конденсатор"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Потребление, Вт"; Value = "0"; VariantName = "[No Variations]"
+Added Component: Designator=R59(SMD_0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "1к"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Назначение"; Value = "SMD-резистор"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Наименование"; Value = "Резистор"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Потребление, Вт"; Value = "0,001"; VariantName = "[No Variations]"
+Added Component: Designator=R60(SMD_0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "1к"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Назначение"; Value = "SMD-резистор"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Наименование"; Value = "Резистор"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Потребление, Вт"; Value = "0,001"; VariantName = "[No Variations]"
+Added Component: Designator=R61(SMD_0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "1к"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Назначение"; Value = "SMD-резистор"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Наименование"; Value = "Резистор"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Потребление, Вт"; Value = "0,001"; VariantName = "[No Variations]"
+Added Component: Designator=R62(SMD_1206)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "1к"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Назначение"; Value = "SMD-резистор"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Наименование"; Value = "Резистор"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Потребление, Вт"; Value = "0,001"; VariantName = "[No Variations]"
+Added Component: Designator=R63(SMD_0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "1к"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Назначение"; Value = "SMD-резистор"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Наименование"; Value = "Резистор"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Потребление, Вт"; Value = "0,001"; VariantName = "[No Variations]"
+Added Component: Designator=R64(SMD_0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "1к"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Назначение"; Value = "SMD-резистор"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Наименование"; Value = "Резистор"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Потребление, Вт"; Value = "0,001"; VariantName = "[No Variations]"
+Added Component: Designator=R65(SMD_1206)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "1к"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Назначение"; Value = "SMD-резистор"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Наименование"; Value = "Резистор"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Потребление, Вт"; Value = "0,001"; VariantName = "[No Variations]"
+Added Component: Designator=R66(SMD_0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "1к"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Назначение"; Value = "SMD-резистор"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Наименование"; Value = "Резистор"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Потребление, Вт"; Value = "0,001"; VariantName = "[No Variations]"
+Added Component: Designator=R67(SMD_0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "1к"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Назначение"; Value = "SMD-резистор"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Наименование"; Value = "Резистор"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Потребление, Вт"; Value = "0,001"; VariantName = "[No Variations]"
+Added Component: Designator=R68(SMD_0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "1к"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Назначение"; Value = "SMD-резистор"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Наименование"; Value = "Резистор"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Потребление, Вт"; Value = "0,001"; VariantName = "[No Variations]"
+Added Component: Designator=R69(SMD_1206)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "1к"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Назначение"; Value = "SMD-резистор"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Наименование"; Value = "Резистор"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Потребление, Вт"; Value = "0,001"; VariantName = "[No Variations]"
+Added Component: Designator=R70(SMD_0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "1к"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Назначение"; Value = "SMD-резистор"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Наименование"; Value = "Резистор"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Потребление, Вт"; Value = "0,001"; VariantName = "[No Variations]"
+Added Component: Designator=R71(SMD_0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "1к"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Назначение"; Value = "SMD-резистор"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Наименование"; Value = "Резистор"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Потребление, Вт"; Value = "0,001"; VariantName = "[No Variations]"
+Added Component: Designator=R72(SMD_0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "1к"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Назначение"; Value = "SMD-резистор"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Наименование"; Value = "Резистор"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Потребление, Вт"; Value = "0,001"; VariantName = "[No Variations]"
+Added Component: Designator=R73(SMD_0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "1к"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Назначение"; Value = "SMD-резистор"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Наименование"; Value = "Резистор"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Потребление, Вт"; Value = "0,001"; VariantName = "[No Variations]"
+Added Component: Designator=R74(SMD_0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "1к"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Назначение"; Value = "SMD-резистор"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Наименование"; Value = "Резистор"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Потребление, Вт"; Value = "0,001"; VariantName = "[No Variations]"
+Added Component: Designator=R75(SMD_1206)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "1к"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Назначение"; Value = "SMD-резистор"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Наименование"; Value = "Резистор"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Потребление, Вт"; Value = "0,001"; VariantName = "[No Variations]"
+Added Component: Designator=R76(SMD_0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "1к"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Назначение"; Value = "SMD-резистор"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Наименование"; Value = "Резистор"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Потребление, Вт"; Value = "0,001"; VariantName = "[No Variations]"
+Added Component: Designator=R77(SMD_0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "1к"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Назначение"; Value = "SMD-резистор"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Наименование"; Value = "Резистор"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Потребление, Вт"; Value = "0,001"; VariantName = "[No Variations]"
+Added Component: Designator=R78(SMD_1206)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "1к"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Назначение"; Value = "SMD-резистор"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Наименование"; Value = "Резистор"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Потребление, Вт"; Value = "0,001"; VariantName = "[No Variations]"
+Added Component: Designator=R79(SMD_0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "1к"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Назначение"; Value = "SMD-резистор"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Наименование"; Value = "Резистор"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Потребление, Вт"; Value = "0,001"; VariantName = "[No Variations]"
+Added Component: Designator=R80(SMD_0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "1к"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Назначение"; Value = "SMD-резистор"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Наименование"; Value = "Резистор"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Потребление, Вт"; Value = "0,001"; VariantName = "[No Variations]"
+Added Component: Designator=R81(SMD_0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "1к"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Назначение"; Value = "SMD-резистор"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Наименование"; Value = "Резистор"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Потребление, Вт"; Value = "0,001"; VariantName = "[No Variations]"
+Added Component: Designator=R82(SMD_1206)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "1к"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Назначение"; Value = "SMD-резистор"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Наименование"; Value = "Резистор"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Потребление, Вт"; Value = "0,001"; VariantName = "[No Variations]"
+Added Component: Designator=R83(SMD_0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "1к"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Назначение"; Value = "SMD-резистор"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Наименование"; Value = "Резистор"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Потребление, Вт"; Value = "0,001"; VariantName = "[No Variations]"
+Added Component: Designator=R84(SMD_0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "1к"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Назначение"; Value = "SMD-резистор"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Наименование"; Value = "Резистор"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Потребление, Вт"; Value = "0,001"; VariantName = "[No Variations]"
+Added Component: Designator=R85(SMD_0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "1к"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Назначение"; Value = "SMD-резистор"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Наименование"; Value = "Резистор"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Потребление, Вт"; Value = "0,001"; VariantName = "[No Variations]"
+Added Component: Designator=R86(SMD_0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "1к"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Назначение"; Value = "SMD-резистор"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Наименование"; Value = "Резистор"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Потребление, Вт"; Value = "0,001"; VariantName = "[No Variations]"
+Added Component: Designator=R87(SMD_0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "1к"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Назначение"; Value = "SMD-резистор"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Наименование"; Value = "Резистор"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Потребление, Вт"; Value = "0,001"; VariantName = "[No Variations]"
+Added Component: Designator=T1(TIL-6V)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Назначение"; Value = "Импульсный трансформатор МПИ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Наименование"; Value = "ТИЛ-6В "ОС""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Потребление, Вт"; Value = "0.0"; VariantName = "[No Variations]"
+Added Component: Designator=T2(TIL-6V)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Назначение"; Value = "Импульсный трансформатор МПИ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Наименование"; Value = "ТИЛ-6В "ОС""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Потребление, Вт"; Value = "0.0"; VariantName = "[No Variations]"
+Added Component: Designator=U6(A3PE600_PLUGA_V2)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Назначение"; Value = "A3PE600 - мезанин"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Наименование"; Value = "A3PE600"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Потребление, Вт"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=U7(4153.20-6)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "DataSheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.integral.by/sites/default/files/pdf/23_specifikaciya_5559in73t-74t.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Назначение"; Value = "Приемопередатчик манчестерского кода"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Наименование"; Value = "5559ИН73Т "ОСМ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Потребление, Вт"; Value = "0.1"; VariantName = "[No Variations]"
+Change Net Name : Old Net Name=NetC10_2 New Net Name=NetC9_2
+Change Net Name : Old Net Name=NetC26_2 New Net Name=NetC25_2
+Change Net Name : Old Net Name=NetC27_2 New Net Name=NetC26_2
+Change Net Name : Old Net Name=NetR21_1 New Net Name=NetR22_1
+Change Net Name : Old Net Name=NetR22_2 New Net Name=NetR21_2
+Change Net Name : Old Net Name=NetR24_2 New Net Name=NetR23_2
+Change Net Name : Old Net Name=NetR25_1 New Net Name=NetR24_1
+Change Net Name : Old Net Name=NetR27_1 New Net Name=NetR25_1
+Change Net Name : Old Net Name=NetR28_1 New Net Name=NetR26_1
+Change Net Name : Old Net Name=NetR29_1 New Net Name=NetR28_1
+Change Net Name : Old Net Name=NetR31_1 New Net Name=NetR29_1
+Change Net Name : Old Net Name=NetR32_1 New Net Name=NetR31_1
+Change Net Name : Old Net Name=NetR33_1 New Net Name=NetR32_1
+Change Net Name : Old Net Name=NetR41_1 New Net Name=NetR36_1
+Added Pin To Net: NetName=CLK Pin=R61-2
+Added Net: Name=CLK
+Added Pin To Net: NetName=Data_IO_0 Pin=U6-A28
+Added Net: Name=Data_IO_0
+Added Pin To Net: NetName=Data_IO_1 Pin=U6-A27
+Added Net: Name=Data_IO_1
+Added Pin To Net: NetName=Data_IO_2 Pin=U6-A25
+Added Pin To Net: NetName=Data_IO_2 Pin=U6-A26
+Added Net: Name=Data_IO_2
+Added Pin To Net: NetName=Data_IO_3 Pin=U6-A24
+Added Net: Name=Data_IO_3
+Added Pin To Net: NetName=Data_IO_4 Pin=U6-A23
+Added Net: Name=Data_IO_4
+Added Pin To Net: NetName=Data_IO_5 Pin=U6-A22
+Added Net: Name=Data_IO_5
+Added Pin To Net: NetName=Data_IO_6 Pin=U6-A21
+Added Net: Name=Data_IO_6
+Added Pin To Net: NetName=Data_IO_7 Pin=U6-A19
+Added Net: Name=Data_IO_7
+Added Pin To Net: NetName=Data_IO_8 Pin=U6-A18
+Added Net: Name=Data_IO_8
+Added Pin To Net: NetName=Data_IO_9 Pin=U6-A17
+Added Net: Name=Data_IO_9
+Added Pin To Net: NetName=Data_IO_10 Pin=U6-A16
+Added Net: Name=Data_IO_10
+Added Pin To Net: NetName=Data_IO_11 Pin=U6-A13
+Added Net: Name=Data_IO_11
+Added Pin To Net: NetName=Data_IO_12 Pin=U6-A12
+Added Net: Name=Data_IO_12
+Added Pin To Net: NetName=Data_IO_13 Pin=U6-A11
+Added Net: Name=Data_IO_13
+Added Pin To Net: NetName=Data_IO_14 Pin=U6-A10
+Added Net: Name=Data_IO_14
+Added Pin To Net: NetName=Data_IO_15 Pin=U6-A9
+Added Net: Name=Data_IO_15
+Added Pin To Net: NetName=MKO_Power Pin=C47-2
+Added Pin To Net: NetName=MKO_Power Pin=C48-2
+Added Pin To Net: NetName=MKO_Power Pin=C49-2
+Added Pin To Net: NetName=MKO_Power Pin=C50-2
+Added Pin To Net: NetName=MKO_Power Pin=R59-2
+Added Pin To Net: NetName=MKO_Power Pin=R60-2
+Added Pin To Net: NetName=MKO_Power Pin=U7-1
+Added Pin To Net: NetName=MKO_Power Pin=U7-4
+Added Pin To Net: NetName=MKO_Power Pin=U7-6
+Added Pin To Net: NetName=MKO_Power Pin=U7-9
+Added Net: Name=MKO_Power
+Added Pin To Net: NetName=NetR59_1 Pin=R59-1
+Added Net: Name=NetR59_1
+Added Pin To Net: NetName=NetR61_1 Pin=R61-1
+Added Pin To Net: NetName=NetR61_1 Pin=U6-A1
+Added Net: Name=NetR61_1
+Added Pin To Net: NetName=NetR62_1 Pin=R62-1
+Added Pin To Net: NetName=NetR62_1 Pin=T1-5
+Added Net: Name=NetR62_1
+Added Pin To Net: NetName=NetR62_2 Pin=R62-2
+Added Pin To Net: NetName=NetR62_2 Pin=R63-1
+Added Pin To Net: NetName=NetR62_2 Pin=R64-1
+Added Pin To Net: NetName=NetR62_2 Pin=R65-2
+Added Net: Name=NetR62_2
+Added Pin To Net: NetName=NetR63_2 Pin=R63-2
+Added Pin To Net: NetName=NetR63_2 Pin=R67-2
+Added Net: Name=NetR63_2
+Added Pin To Net: NetName=NetR64_2 Pin=R64-2
+Added Pin To Net: NetName=NetR64_2 Pin=R71-2
+Added Net: Name=NetR64_2
+Added Pin To Net: NetName=NetR65_1 Pin=R65-1
+Added Pin To Net: NetName=NetR65_1 Pin=R67-1
+Added Pin To Net: NetName=NetR65_1 Pin=R69-2
+Added Pin To Net: NetName=NetR65_1 Pin=R71-1
+Added Net: Name=NetR65_1
+Added Pin To Net: NetName=NetR69_1 Pin=R69-1
+Added Pin To Net: NetName=NetR69_1 Pin=T1-8
+Added Net: Name=NetR69_1
+Added Pin To Net: NetName=NetR70_1 Pin=R70-1
+Added Pin To Net: NetName=NetR70_1 Pin=U7-17
+Added Net: Name=NetR70_1
+Added Pin To Net: NetName=NetR72_1 Pin=R72-1
+Added Pin To Net: NetName=NetR72_1 Pin=U7-16
+Added Net: Name=NetR72_1
+Added Pin To Net: NetName=NetR75_1 Pin=R75-1
+Added Pin To Net: NetName=NetR75_1 Pin=T2-5
+Added Net: Name=NetR75_1
+Added Pin To Net: NetName=NetR75_2 Pin=R75-2
+Added Pin To Net: NetName=NetR75_2 Pin=R76-1
+Added Pin To Net: NetName=NetR75_2 Pin=R77-1
+Added Pin To Net: NetName=NetR75_2 Pin=R78-2
+Added Net: Name=NetR75_2
+Added Pin To Net: NetName=NetR76_2 Pin=R76-2
+Added Pin To Net: NetName=NetR76_2 Pin=R80-2
+Added Net: Name=NetR76_2
+Added Pin To Net: NetName=NetR77_2 Pin=R77-2
+Added Pin To Net: NetName=NetR77_2 Pin=R84-2
+Added Net: Name=NetR77_2
+Added Pin To Net: NetName=NetR78_1 Pin=R78-1
+Added Pin To Net: NetName=NetR78_1 Pin=R80-1
+Added Pin To Net: NetName=NetR78_1 Pin=R82-2
+Added Pin To Net: NetName=NetR78_1 Pin=R84-1
+Added Net: Name=NetR78_1
+Added Pin To Net: NetName=NetR82_1 Pin=R82-1
+Added Pin To Net: NetName=NetR82_1 Pin=T2-8
+Added Net: Name=NetR82_1
+Added Pin To Net: NetName=NetR83_1 Pin=R83-1
+Added Pin To Net: NetName=NetR83_1 Pin=U7-12
+Added Net: Name=NetR83_1
+Added Pin To Net: NetName=NetR85_1 Pin=R85-1
+Added Pin To Net: NetName=NetR85_1 Pin=U7-11
+Added Net: Name=NetR85_1
+Added Pin To Net: NetName=NetT1_1 Pin=T1-1
+Added Pin To Net: NetName=NetT1_1 Pin=U7-3
+Added Net: Name=NetT1_1
+Added Pin To Net: NetName=NetT1_4 Pin=T1-4
+Added Pin To Net: NetName=NetT1_4 Pin=U7-2
+Added Net: Name=NetT1_4
+Added Pin To Net: NetName=NetT2_1 Pin=T2-1
+Added Pin To Net: NetName=NetT2_1 Pin=U7-8
+Added Net: Name=NetT2_1
+Added Pin To Net: NetName=NetT2_4 Pin=T2-4
+Added Pin To Net: NetName=NetT2_4 Pin=U7-7
+Added Net: Name=NetT2_4
+Added Pin To Net: NetName=NetU6_J1 Pin=U6-J1
+Added Net: Name=NetU6_J1
+Added Pin To Net: NetName=NetU6_J2 Pin=U6-J2
+Added Net: Name=NetU6_J2
+Added Pin To Net: NetName=NetU6_J3 Pin=U6-J3
+Added Net: Name=NetU6_J3
+Added Pin To Net: NetName=NetU6_J4 Pin=U6-J4
+Added Net: Name=NetU6_J4
+Added Pin To Net: NetName=NetU6_J5 Pin=U6-J5
+Added Net: Name=NetU6_J5
+Added Pin To Net: NetName=NetU6_J6 Pin=U6-J6
+Added Net: Name=NetU6_J6
+Added Pin To Net: NetName=NetU6_J7 Pin=U6-J7
+Added Net: Name=NetU6_J7
+Added Pin To Net: NetName=NetU6_J8 Pin=U6-J8
+Added Net: Name=NetU6_J8
+Added Pin To Net: NetName=NetU6_J9 Pin=U6-J9
+Added Net: Name=NetU6_J9
+Added Pin To Net: NetName=NetU6_J10 Pin=U6-J10
+Added Net: Name=NetU6_J10
+Added Pin To Net: NetName=RXDN_A Pin=R72-2
+Added Pin To Net: NetName=RXDN_A Pin=R73-1
+Added Pin To Net: NetName=RXDN_A Pin=U6-D16
+Added Net: Name=RXDN_A
+Added Pin To Net: NetName=RXDN_B Pin=R85-2
+Added Pin To Net: NetName=RXDN_B Pin=R86-1
+Added Pin To Net: NetName=RXDN_B Pin=U6-D18
+Added Net: Name=RXDN_B
+Added Pin To Net: NetName=RXDP_A Pin=R70-2
+Added Pin To Net: NetName=RXDP_A Pin=R74-1
+Added Pin To Net: NetName=RXDP_A Pin=U6-D15
+Added Net: Name=RXDP_A
+Added Pin To Net: NetName=RXDP_B Pin=R83-2
+Added Pin To Net: NetName=RXDP_B Pin=R87-1
+Added Pin To Net: NetName=RXDP_B Pin=U6-D17
+Added Net: Name=RXDP_B
+Added Pin To Net: NetName=TXDN_A Pin=R66-1
+Added Pin To Net: NetName=TXDN_A Pin=U6-D21
+Added Pin To Net: NetName=TXDN_A Pin=U7-20
+Added Net: Name=TXDN_A
+Added Pin To Net: NetName=TXDN_B Pin=R79-1
+Added Pin To Net: NetName=TXDN_B Pin=U6-D23
+Added Pin To Net: NetName=TXDN_B Pin=U7-15
+Added Net: Name=TXDN_B
+Added Pin To Net: NetName=TXDP_A Pin=R68-1
+Added Pin To Net: NetName=TXDP_A Pin=U6-D22
+Added Pin To Net: NetName=TXDP_A Pin=U7-19
+Added Net: Name=TXDP_A
+Added Pin To Net: NetName=TXDP_B Pin=R81-1
+Added Pin To Net: NetName=TXDP_B Pin=U6-D24
+Added Pin To Net: NetName=TXDP_B Pin=U7-14
+Added Net: Name=TXDP_B
+Added Room: Name=Designator

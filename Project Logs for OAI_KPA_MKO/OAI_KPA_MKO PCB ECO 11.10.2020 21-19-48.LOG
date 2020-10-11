@@ -1,0 +1,19 @@
+Removed Member From Class: ClassName=Module_main Member=X5
+Removed Member From Class: ClassName=Module_main Member=X6
+Removed Member From Class: ClassName=USB Member=X10
+Added Member To Class: ClassName=Power Member=Component C10 10לךװץ50ֲ
+Added Member To Class: ClassName=Digital_module Member=Component C25 10לךװ
+Added Member To Class: ClassName=Digital_module Member=Component C28 0,1לךװ
+Added Member To Class: ClassName=Digital_module Member=Component R22 100
+Added Member To Class: ClassName=Digital_module Member=Component R24 1ך
+Added Member To Class: ClassName=Digital_module Member=Component R26 1ך
+Added Member To Class: ClassName=Digital_module Member=Component R27 13ך
+Added Member To Class: ClassName=Digital_module Member=Component R31 1ך
+Added Member To Class: ClassName=Digital_module Member=Component R33 13ך
+Added Member To Class: ClassName=Digital_module Member=Component R36 27
+Added Member To Class: ClassName=Digital_module Member=Component R38 10ך
+Added Member To Class: ClassName=Digital_module Member=Component R41 10ך
+Added Member To Class: ClassName=USB Member=Component X4 mico-BF
+Added Member To Class: ClassName=Module_main Member=Component X7 Header 2X10
+Added Member To Class: ClassName=Module_main Member=Component X8 Header 2X10
+Added Member To Class: ClassName=Module_main Member=Component X9 Header 2X10
