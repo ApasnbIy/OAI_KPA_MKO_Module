@@ -1,2 +1,2 @@
-*=MKO_Addr_0,MKO_Addr_1,MKO_Addr_2
+MKO_Addr=MKO_Addr_0,MKO_Addr_1,MKO_Addr_2
 MKO_Data_wires=Data_IO_0,Data_IO_1,Data_IO_2,Data_IO_3,Data_IO_4,Data_IO_5,Data_IO_6,Data_IO_7,Data_IO_8,Data_IO_9,Data_IO_10,Data_IO_11,Data_IO_12,Data_IO_13,Data_IO_14,Data_IO_15

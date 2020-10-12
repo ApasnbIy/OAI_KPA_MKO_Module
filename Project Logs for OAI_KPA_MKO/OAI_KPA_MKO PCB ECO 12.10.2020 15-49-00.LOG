@@ -1,0 +1,38 @@
+Removed Pin From Net: NetName=GPIO_11 Pin=U4-1
+Removed Pin From Net: NetName=Data_IO_2 Pin=U4-2
+Removed Pin From Net: NetName=Data_IO_3 Pin=U4-3
+Removed Pin From Net: NetName=Data_IO_4 Pin=U4-4
+Removed Pin From Net: NetName=Data_IO_5 Pin=U4-5
+Removed Pin From Net: NetName=Data_IO_15 Pin=U4-56
+Removed Pin From Net: NetName=Data_IO_6 Pin=U4-58
+Removed Pin From Net: NetName=Data_IO_7 Pin=U4-59
+Removed Pin From Net: NetName=Data_IO_8 Pin=U4-60
+Removed Pin From Net: NetName=Data_IO_9 Pin=U4-63
+Removed Pin From Net: NetName=Data_IO_10 Pin=U4-64
+Removed Pin From Net: NetName=Data_IO_11 Pin=U4-65
+Removed Pin From Net: NetName=Data_IO_12 Pin=U4-66
+Removed Pin From Net: NetName=Data_IO_13 Pin=U4-67
+Removed Pin From Net: NetName=Data_IO_14 Pin=U4-68
+Removed Pin From Net: NetName=MKO_Addr_0 Pin=U6-A7
+Added Pin To Net: NetName=Data_IO_2 Pin=U4-1
+Added Pin To Net: NetName=Data_IO_3 Pin=U4-2
+Added Pin To Net: NetName=Data_IO_4 Pin=U4-3
+Added Pin To Net: NetName=Data_IO_5 Pin=U4-4
+Added Pin To Net: NetName=Data_IO_6 Pin=U4-5
+Added Pin To Net: NetName=GPIO_11 Pin=U4-56
+Added Pin To Net: NetName=Data_IO_7 Pin=U4-58
+Added Pin To Net: NetName=Data_IO_8 Pin=U4-59
+Added Pin To Net: NetName=Data_IO_9 Pin=U4-60
+Added Pin To Net: NetName=Data_IO_10 Pin=U4-63
+Added Pin To Net: NetName=Data_IO_11 Pin=U4-64
+Added Pin To Net: NetName=Data_IO_12 Pin=U4-65
+Added Pin To Net: NetName=Data_IO_13 Pin=U4-66
+Added Pin To Net: NetName=Data_IO_14 Pin=U4-67
+Added Pin To Net: NetName=Data_IO_15 Pin=U4-68
+Added Pin To Net: NetName=MKO_Addr_0 Pin=U4-100
+Added Pin To Net: NetName=GPIO_28 Pin=U6-A5
+Added Pin To Net: NetName=GPIO_27 Pin=U6-A6
+Added Pin To Net: NetName=GPIO_26 Pin=U6-A7
+Change Net Name : Old Net Name=GPIO_11 New Net Name=GPIO_25
+Change Net Name : Old Net Name=MKO_Addr_0 New Net Name=RCC_MCO_1
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(204, 63, 52)

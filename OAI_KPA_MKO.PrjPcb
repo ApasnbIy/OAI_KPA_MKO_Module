@@ -361,112 +361,116 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [GeneratedDocument1]
-DocumentPath=Project Outputs for Free Documents\NC Drill\Processor_unit.DRR
+DocumentPath=Project Outputs for OAI_KPA_MKO\Design Rule Check - OAI_KPA_MKO.html
 DItemRevisionGUID=
 
 [GeneratedDocument2]
-DocumentPath=Project Outputs for Free Documents\Gerber\Processor_unit.EXTREP
+DocumentPath=Project Outputs for Free Documents\NC Drill\Processor_unit.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument3]
-DocumentPath=Project Outputs for Free Documents\Gerber\Processor_unit.G1
+DocumentPath=Project Outputs for Free Documents\Gerber\Processor_unit.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument4]
-DocumentPath=Project Outputs for Free Documents\Gerber\Processor_unit.GBL
+DocumentPath=Project Outputs for Free Documents\Gerber\Processor_unit.G1
 DItemRevisionGUID=
 
 [GeneratedDocument5]
-DocumentPath=Project Outputs for Free Documents\Gerber\Processor_unit.GBO
+DocumentPath=Project Outputs for Free Documents\Gerber\Processor_unit.GBL
 DItemRevisionGUID=
 
 [GeneratedDocument6]
-DocumentPath=Project Outputs for Free Documents\Gerber\Processor_unit.GBP
+DocumentPath=Project Outputs for Free Documents\Gerber\Processor_unit.GBO
 DItemRevisionGUID=
 
 [GeneratedDocument7]
-DocumentPath=Project Outputs for Free Documents\Gerber\Processor_unit.GBS
+DocumentPath=Project Outputs for Free Documents\Gerber\Processor_unit.GBP
 DItemRevisionGUID=
 
 [GeneratedDocument8]
-DocumentPath=Project Outputs for Free Documents\Gerber\Processor_unit.GM1
+DocumentPath=Project Outputs for Free Documents\Gerber\Processor_unit.GBS
 DItemRevisionGUID=
 
 [GeneratedDocument9]
-DocumentPath=Project Outputs for Free Documents\Gerber\Processor_unit.GP1
+DocumentPath=Project Outputs for Free Documents\Gerber\Processor_unit.GM1
 DItemRevisionGUID=
 
 [GeneratedDocument10]
-DocumentPath=Project Outputs for Free Documents\Gerber\Processor_unit.GTL
+DocumentPath=Project Outputs for Free Documents\Gerber\Processor_unit.GP1
 DItemRevisionGUID=
 
 [GeneratedDocument11]
-DocumentPath=Project Outputs for Free Documents\Gerber\Processor_unit.GTO
+DocumentPath=Project Outputs for Free Documents\Gerber\Processor_unit.GTL
 DItemRevisionGUID=
 
 [GeneratedDocument12]
-DocumentPath=Project Outputs for Free Documents\Gerber\Processor_unit.GTP
+DocumentPath=Project Outputs for Free Documents\Gerber\Processor_unit.GTO
 DItemRevisionGUID=
 
 [GeneratedDocument13]
-DocumentPath=Project Outputs for Free Documents\Gerber\Processor_unit.GTS
+DocumentPath=Project Outputs for Free Documents\Gerber\Processor_unit.GTP
 DItemRevisionGUID=
 
 [GeneratedDocument14]
-DocumentPath=Project Outputs for Free Documents\NC Drill\Processor_unit.LDP
+DocumentPath=Project Outputs for Free Documents\Gerber\Processor_unit.GTS
 DItemRevisionGUID=
 
 [GeneratedDocument15]
-DocumentPath=Project Outputs for Free Documents\Gerber\Processor_unit.REP
+DocumentPath=Project Outputs for Free Documents\NC Drill\Processor_unit.LDP
 DItemRevisionGUID=
 
 [GeneratedDocument16]
-DocumentPath=Project Outputs for Free Documents\Gerber\Processor_unit.RUL
+DocumentPath=Project Outputs for Free Documents\Gerber\Processor_unit.REP
 DItemRevisionGUID=
 
 [GeneratedDocument17]
+DocumentPath=Project Outputs for Free Documents\Gerber\Processor_unit.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument18]
 DocumentPath=Project Outputs for Free Documents\NC Drill\Processor_unit.TXT
 DItemRevisionGUID=
 
 [Parameter1]
-Name=Утвердил
-Value=Прокопьев
+Name=GlobalFunctionalModuleName
+Value=Power_Module
 
 [Parameter2]
-Name=Разработал
-Value=Козлов
-
-[Parameter3]
-Name=Проверил
-Value=Стюф
-
-[Parameter4]
-Name=Норм.Контр.
-Value=Задорожная
-
-[Parameter5]
-Name=Наименование
-Value=Проект цифрового модуля для КПА БДК2М
-
-[Parameter6]
-Name=GlobalProjectRevision
-Value=#1
-
-[Parameter7]
-Name=GlobalProjectNumber
-Value=ЮМП.250.
-
-[Parameter8]
-Name=GlobalProjectName
-Value=OAI_KPA_module
-
-[Parameter9]
 Name=GlobalFunctionalModuleRevision
 Value=#1
 
+[Parameter3]
+Name=GlobalProjectName
+Value=OAI_KPA_module
+
+[Parameter4]
+Name=GlobalProjectNumber
+Value=ЮМП.250.
+
+[Parameter5]
+Name=GlobalProjectRevision
+Value=#1
+
+[Parameter6]
+Name=Наименование
+Value=Проект цифрового модуля для КПА БДК2М
+
+[Parameter7]
+Name=Норм.Контр.
+Value=Задорожная
+
+[Parameter8]
+Name=Проверил
+Value=Стюф
+
+[Parameter9]
+Name=Разработал
+Value=Козлов
+
 [Parameter10]
-Name=GlobalFunctionalModuleName
-Value=Power_Module
+Name=Утвердил
+Value=Прокопьев
 
 [Configuration1]
 Name=Sources
@@ -484,7 +488,7 @@ OutputDir=
 [OutputGroup1]
 Name=Netlist Outputs
 Description=
-TargetPrinter=Send To OneNote 2016
+TargetPrinter=Phaser 7100N
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=CadnetixNetlist
 OutputName1=Cadnetix Netlist
@@ -590,7 +594,7 @@ OutputDefault20=0
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
-TargetPrinter=Send To OneNote 2016
+TargetPrinter=Phaser 7100N
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 
 [OutputGroup3]
@@ -694,7 +698,7 @@ PageOptions11=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|Print
 [OutputGroup4]
 Name=Assembly Outputs
 Description=
-TargetPrinter=Send To OneNote 2016
+TargetPrinter=Phaser 7100N
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Assembly
 OutputName1=Assembly Drawings
@@ -716,7 +720,7 @@ OutputDefault3=0
 [OutputGroup5]
 Name=Fabrication Outputs
 Description=
-TargetPrinter=Send To OneNote 2016
+TargetPrinter=Phaser 7100N
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Board Stack Report
 OutputName1=Report Board Stack
@@ -788,7 +792,7 @@ OutputDefault12=0
 [OutputGroup6]
 Name=Report Outputs
 Description=
-TargetPrinter=Send To OneNote 2016
+TargetPrinter=Phaser 7100N
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=BOM_PartType
 OutputName1=Bill of Materials
@@ -825,7 +829,7 @@ OutputDefault6=0
 [OutputGroup7]
 Name=Other Outputs
 Description=
-TargetPrinter=Send To OneNote 2016
+TargetPrinter=Phaser 7100N
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Text Print
 OutputName1=Text Print
@@ -1005,7 +1009,7 @@ PageOptions29=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|Print
 [OutputGroup8]
 Name=Validation Outputs
 Description=
-TargetPrinter=Send To OneNote 2016
+TargetPrinter=Phaser 7100N
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=BOM_Violations
 OutputName1=BOM Checks Report
@@ -1049,7 +1053,7 @@ OutputDefault7=0
 [OutputGroup9]
 Name=Export Outputs
 Description=
-TargetPrinter=Send To OneNote 2016
+TargetPrinter=Phaser 7100N
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=AutoCAD dwg/dxf PCB
 OutputName1=AutoCAD dwg/dxf File PCB
@@ -1110,7 +1114,7 @@ OutputDefault11=0
 [OutputGroup10]
 Name=PostProcess Outputs
 Description=
-TargetPrinter=Send To OneNote 2016
+TargetPrinter=Phaser 7100N
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Copy Files
 OutputName1=Copy Files
@@ -1525,12 +1529,13 @@ Net3=NetName=3V3|NetColor=$00FF6EFF
 Net4=NetName=-5V|NetColor=$00AD7500
 Net5=NetName=GND|NetColor=$00FF6E6E
 Net6=NetName=GND_in|NetColor=$007F0311
-Net7=NetName=NetC11_2|NetColor=$006E6EFF
-Net8=NetName=NetC12_2|NetColor=$00FF6EFF
-Net9=NetName=NetC16_2|NetColor=$00FF6EFF
-Net10=NetName=NetG1_7|NetColor=$006E6EFF
-Net11=NetName=NetX5_1|NetColor=$00FF6EFF
-Net12=NetName=V_in|NetColor=$00FF6EFF
+Net7=NetName=MKO_Power|NetColor=$00343FCC
+Net8=NetName=NetC11_2|NetColor=$006E6EFF
+Net9=NetName=NetC12_2|NetColor=$00FF6EFF
+Net10=NetName=NetC16_2|NetColor=$00FF6EFF
+Net11=NetName=NetG1_7|NetColor=$006E6EFF
+Net12=NetName=NetX5_1|NetColor=$00FF6EFF
+Net13=NetName=V_in|NetColor=$00FF6EFF
 
 [Comparison Options]
 ComparisonOptions0=Kind=Net|MinPercent=75|MinMatch=3|ShowMatch=-1|Confirm=-1|UseName=-1|InclAllRules=0
