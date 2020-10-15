@@ -1,0 +1,188 @@
+Removed Pin From Net: NetName=+5V Pin=R60-1
+Change Component Comment : Designator=R60 Old Comment=0 New Comment=NU
+Change Component Designator: OldDesignator=C52 NewDesignator=C55
+Change Component Designator: OldDesignator=C53 NewDesignator=C56
+Change Component Designator: OldDesignator=C54 NewDesignator=C57
+Change Component Designator: OldDesignator=C55 NewDesignator=C58
+Change Component Designator: OldDesignator=R61 NewDesignator=R62
+Change Component Designator: OldDesignator=R62 NewDesignator=R63
+Change Component Designator: OldDesignator=R63 NewDesignator=R64
+Change Component Designator: OldDesignator=R64 NewDesignator=R65
+Change Component Designator: OldDesignator=R65 NewDesignator=R66
+Change Component Designator: OldDesignator=R66 NewDesignator=R67
+Change Component Designator: OldDesignator=R67 NewDesignator=R68
+Change Component Designator: OldDesignator=R68 NewDesignator=R69
+Change Component Designator: OldDesignator=R69 NewDesignator=R70
+Change Component Designator: OldDesignator=R70 NewDesignator=R71
+Change Component Designator: OldDesignator=R71 NewDesignator=R72
+Change Component Designator: OldDesignator=R72 NewDesignator=R73
+Change Component Designator: OldDesignator=R73 NewDesignator=R74
+Change Component Designator: OldDesignator=R74 NewDesignator=R75
+Change Component Designator: OldDesignator=R75 NewDesignator=R76
+Change Component Designator: OldDesignator=R76 NewDesignator=R77
+Change Component Designator: OldDesignator=R77 NewDesignator=R78
+Change Component Designator: OldDesignator=R78 NewDesignator=R79
+Change Component Designator: OldDesignator=R79 NewDesignator=R80
+Change Component Designator: OldDesignator=R80 NewDesignator=R81
+Change Component Designator: OldDesignator=R81 NewDesignator=R82
+Change Component Designator: OldDesignator=R82 NewDesignator=R83
+Change Component Designator: OldDesignator=R83 NewDesignator=R84
+Change Component Designator: OldDesignator=R84 NewDesignator=R88
+Change Component Designator: OldDesignator=R85 NewDesignator=R90
+Change Component Designator: OldDesignator=R86 NewDesignator=R91
+Change Component Designator: OldDesignator=R87 NewDesignator=R92
+Change Component Designator: OldDesignator=R88 NewDesignator=R93
+Change Component Designator: OldDesignator=R89 NewDesignator=R94
+Change Component Designator: OldDesignator=R90 NewDesignator=R95
+Change Component Designator: OldDesignator=R91 NewDesignator=R96
+Change Component Designator: OldDesignator=R92 NewDesignator=R97
+Change Component Designator: OldDesignator=R93 NewDesignator=R98
+Change Component Designator: OldDesignator=R94 NewDesignator=R99
+Change Component Designator: OldDesignator=R95 NewDesignator=R100
+Change Component Designator: OldDesignator=R96 NewDesignator=R101
+Change Component Designator: OldDesignator=R97 NewDesignator=R102
+Change Component Designator: OldDesignator=R98 NewDesignator=R103
+Change Component Designator: OldDesignator=R99 NewDesignator=R104
+Change Component Designator: OldDesignator=R100 NewDesignator=R105
+Change Component Designator: OldDesignator=R101 NewDesignator=R106
+Change Component Designator: OldDesignator=R102 NewDesignator=R107
+Change Component Designator: OldDesignator=R103 NewDesignator=R108
+Change Component Designator: OldDesignator=R104 NewDesignator=R109
+Change Component Designator: OldDesignator=R105 NewDesignator=R110
+Change Component Designator: OldDesignator=R106 NewDesignator=R111
+Change Component Designator: OldDesignator=R107 NewDesignator=R112
+Change Component Designator: OldDesignator=R108 NewDesignator=R113
+Change Component Designator: OldDesignator=R109 NewDesignator=R114
+Change Component Designator: OldDesignator=R110 NewDesignator=R115
+Added Component: Designator=C52(SMD_0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "0,1мкФ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Назначение"; Value = "SMD-конденсатор"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Наименование"; Value = "Конденсатор"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Потребление, Вт"; Value = "0"; VariantName = "[No Variations]"
+Added Component: Designator=C53(SMD_size_B)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "10мкФх50В"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Назначение"; Value = "Поляризованный SMD-конденсатор"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Наименование"; Value = "Поляризованный конденсатор"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Потребление, Вт"; Value = "0"; VariantName = "[No Variations]"
+Added Component: Designator=C54(SMD_0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "0,1мкФ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Назначение"; Value = "SMD-конденсатор"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Наименование"; Value = "Конденсатор"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Потребление, Вт"; Value = "0"; VariantName = "[No Variations]"
+Added Component: Designator=G3(uSiL-8)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Data sheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.ti.com/lit/ds/symlink/tps82130.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DataSheet"; Value = "https://www.ti.com/lit/ds/symlink/tps82130.pdf?ts=1592813288219&ref_url=https%253A%252F%252Fwww.google.com%252F"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Назначение"; Value = "17-V Input 3-A Step-Down Converter MicroSiP™ Module with Integrated Inductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Наименование"; Value = "TPS82130"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Потребление, Вт"; Value = "1,0"; VariantName = "[No Variations]"
+Added Component: Designator=R61(SMD_0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "1к"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Назначение"; Value = "SMD-резистор"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Наименование"; Value = "Резистор"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Потребление, Вт"; Value = "0,001"; VariantName = "[No Variations]"
+Added Component: Designator=R85(SMD_0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "1к"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Назначение"; Value = "SMD-резистор"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Наименование"; Value = "Резистор"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Потребление, Вт"; Value = "0,001"; VariantName = "[No Variations]"
+Added Component: Designator=R86(SMD_0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "1к"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Назначение"; Value = "SMD-резистор"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Наименование"; Value = "Резистор"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Потребление, Вт"; Value = "0,001"; VariantName = "[No Variations]"
+Added Component: Designator=R87(SMD_0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "1к"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Назначение"; Value = "SMD-резистор"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Наименование"; Value = "Резистор"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Потребление, Вт"; Value = "0,001"; VariantName = "[No Variations]"
+Added Component: Designator=R89(SMD_0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "1к"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Назначение"; Value = "SMD-резистор"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Наименование"; Value = "Резистор"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Потребление, Вт"; Value = "0,001"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C52-1
+Added Pin To Net: NetName=GND Pin=C53-2
+Added Pin To Net: NetName=GND Pin=C54-1
+Added Pin To Net: NetName=+5V Pin=C54-2
+Added Pin To Net: NetName=GND Pin=G3-3
+Added Pin To Net: NetName=+5V Pin=G3-8
+Added Pin To Net: NetName=GND Pin=G3-9
+Added Pin To Net: NetName=MKO_Power Pin=R61-2
+Added Pin To Net: NetName=GND Pin=R89-1
+Change Net Name : Old Net Name=+5V New Net Name=NetC54_2
+Change Net Name : Old Net Name=NetR61_1 New Net Name=NetR62_1
+Change Net Name : Old Net Name=NetR62_1 New Net Name=NetR63_1
+Change Net Name : Old Net Name=NetR63_1 New Net Name=NetR64_1
+Change Net Name : Old Net Name=NetR64_1 New Net Name=NetR65_1
+Change Net Name : Old Net Name=NetR65_1 New Net Name=NetR66_1
+Change Net Name : Old Net Name=NetR66_1 New Net Name=NetR67_1
+Change Net Name : Old Net Name=NetR67_1 New Net Name=NetR68_1
+Change Net Name : Old Net Name=NetR68_1 New Net Name=NetR69_1
+Change Net Name : Old Net Name=NetR69_1 New Net Name=NetR70_1
+Change Net Name : Old Net Name=NetR70_1 New Net Name=NetR71_1
+Change Net Name : Old Net Name=NetR71_1 New Net Name=NetR72_1
+Change Net Name : Old Net Name=NetR72_1 New Net Name=NetR73_1
+Change Net Name : Old Net Name=NetR73_1 New Net Name=NetR74_1
+Change Net Name : Old Net Name=NetR74_1 New Net Name=NetR75_1
+Change Net Name : Old Net Name=NetR75_1 New Net Name=NetR76_1
+Change Net Name : Old Net Name=NetR76_1 New Net Name=NetR77_1
+Change Net Name : Old Net Name=NetR77_1 New Net Name=NetR78_1
+Change Net Name : Old Net Name=NetR78_1 New Net Name=NetR79_1
+Change Net Name : Old Net Name=NetR79_1 New Net Name=NetR80_1
+Change Net Name : Old Net Name=NetR80_1 New Net Name=NetR81_1
+Change Net Name : Old Net Name=NetR81_1 New Net Name=NetR82_1
+Change Net Name : Old Net Name=NetR82_1 New Net Name=NetR83_1
+Change Net Name : Old Net Name=NetR83_1 New Net Name=NetR84_1
+Change Net Name : Old Net Name=NetR84_1 New Net Name=NetR88_1
+Change Net Name : Old Net Name=NetR85_1 New Net Name=NetR90_1
+Change Net Name : Old Net Name=NetR85_2 New Net Name=NetR90_2
+Change Net Name : Old Net Name=NetR88_1 New Net Name=NetR93_1
+Change Net Name : Old Net Name=NetR92_1 New Net Name=NetR97_1
+Change Net Name : Old Net Name=NetR93_1 New Net Name=NetR98_1
+Change Net Name : Old Net Name=NetR95_1 New Net Name=NetR100_1
+Change Net Name : Old Net Name=NetR98_1 New Net Name=NetR103_1
+Change Net Name : Old Net Name=NetR98_2 New Net Name=NetR103_2
+Change Net Name : Old Net Name=NetR101_1 New Net Name=NetR106_1
+Change Net Name : Old Net Name=NetR105_1 New Net Name=NetR110_1
+Change Net Name : Old Net Name=NetR106_1 New Net Name=NetR111_1
+Change Net Name : Old Net Name=NetR108_1 New Net Name=NetR113_1
+Change Net Color : Old Net Color=RGB(255, 110, 110) New Net Color=Default
+Added Pin To Net: NetName=MKO_3V3 Pin=C52-2
+Added Pin To Net: NetName=MKO_3V3 Pin=C53-1
+Added Pin To Net: NetName=MKO_3V3 Pin=G3-4
+Added Pin To Net: NetName=MKO_3V3 Pin=G3-5
+Added Pin To Net: NetName=MKO_3V3 Pin=R61-1
+Added Pin To Net: NetName=MKO_3V3 Pin=R86-2
+Added Pin To Net: NetName=MKO_3V3 Pin=R87-2
+Added Net: Name=MKO_3V3
+Added Pin To Net: NetName=NetG3_1 Pin=G3-1
+Added Pin To Net: NetName=NetG3_1 Pin=R85-1
+Added Net: Name=NetG3_1
+Added Pin To Net: NetName=NetG3_6 Pin=G3-6
+Added Pin To Net: NetName=NetG3_6 Pin=R86-1
+Added Pin To Net: NetName=NetG3_6 Pin=R87-1
+Added Pin To Net: NetName=NetG3_6 Pin=R89-2
+Added Net: Name=NetG3_6
+Added Member To Class: ClassName=MKO_Part Member=Component C47 0,1мкФ
+Added Member To Class: ClassName=MKO_Part Member=Component C48 0,1мкФ
+Added Member To Class: ClassName=MKO_Part Member=Component C49 0,1мкФ
+Added Member To Class: ClassName=MKO_Part Member=Component C50 0,1мкФ
+Added Member To Class: ClassName=MKO_Part Member=Component C56 10мкФ
+Added Member To Class: ClassName=MKO_Part Member=Component C57 0,1мкФ
+Added Member To Class: ClassName=MKO_Part Member=Component C58 10мкФ
+Added Member To Class: ClassName=MKO_Part Member=Component G3 TPS82130
+Added Member To Class: ClassName=MKO_Part Member=Component R111 560
+Added Member To Class: ClassName=MKO_Part Member=Component R112 0
+Added Member To Class: ClassName=MKO_Part Member=Component R113 560
+Added Member To Class: ClassName=MKO_Part Member=Component R114 1к
+Added Member To Class: ClassName=MKO_Part Member=Component R115 1к

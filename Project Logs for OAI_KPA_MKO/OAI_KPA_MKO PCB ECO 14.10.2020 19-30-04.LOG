@@ -1,0 +1,6 @@
+Added Pin To Net: NetName=NetR62_1 Pin=R62-1
+Added Pin To Net: NetName=NetR62_1 Pin=U6-A21
+Added Net: Name=NetR62_1
+Added Pin To Net: NetName=NetR84_1 Pin=R84-1
+Added Pin To Net: NetName=NetR84_1 Pin=U6-A22
+Added Net: Name=NetR84_1

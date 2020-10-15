@@ -1,0 +1,21 @@
+Change Component Designator: OldDesignator=C47 NewDesignator=C48
+Change Component Designator: OldDesignator=C48 NewDesignator=C49
+Change Component Designator: OldDesignator=C49 NewDesignator=C50
+Change Component Designator: OldDesignator=C50 NewDesignator=C51
+Change Component Designator: OldDesignator=C51 NewDesignator=C52
+Change Component Designator: OldDesignator=C52 NewDesignator=C53
+Change Component Designator: OldDesignator=C53 NewDesignator=C54
+Change Component Designator: OldDesignator=C54 NewDesignator=C55
+Change Component Designator: OldDesignator=C55 NewDesignator=C56
+Change Component Designator: OldDesignator=C56 NewDesignator=C57
+Change Component Designator: OldDesignator=C57 NewDesignator=C58
+Change Component Designator: OldDesignator=C58 NewDesignator=C59
+Added Component: Designator=C47(SMD_size_B)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "10мкФх50В"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Назначение"; Value = "Поляризованный SMD-конденсатор"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Наименование"; Value = "Поляризованный конденсатор"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Потребление, Вт"; Value = "0"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C47-2
+Change Net Name : Old Net Name=NetC54_2 New Net Name=NetC55_2
+Added Member To Class: ClassName=MKO_Part Member=Component C59 10мкФ

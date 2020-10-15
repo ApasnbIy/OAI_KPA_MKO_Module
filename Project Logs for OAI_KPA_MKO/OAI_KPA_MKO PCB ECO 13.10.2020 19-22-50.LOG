@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=RXDP_B Pin=U6-C3
+Removed Pin From Net: NetName=RXDN_B Pin=U6-C4
+Removed Pin From Net: NetName=TXDN_B Pin=U6-C5
+Removed Pin From Net: NetName=TXDP_B Pin=U6-C6
+Removed Pin From Net: NetName=RXDP_A Pin=U6-C9
+Removed Pin From Net: NetName=RXDN_A Pin=U6-C10
+Removed Pin From Net: NetName=TXDN_A Pin=U6-C11
+Removed Pin From Net: NetName=TXDP_A Pin=U6-C12
+Added Pin To Net: NetName=TXDN_B Pin=U6-C3
+Added Pin To Net: NetName=TXDP_B Pin=U6-C4
+Added Pin To Net: NetName=TXDN_A Pin=U6-C5
+Added Pin To Net: NetName=TXDP_A Pin=U6-C6
+Added Pin To Net: NetName=RXDN_B Pin=U6-C9
+Added Pin To Net: NetName=RXDP_B Pin=U6-C10
+Added Pin To Net: NetName=RXDP_A Pin=U6-C11
+Added Pin To Net: NetName=RXDN_A Pin=U6-C12

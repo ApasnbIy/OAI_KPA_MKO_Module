@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=TXDP_B Pin=U6-C5
+Removed Pin From Net: NetName=TXDN_B Pin=U6-C6
+Removed Pin From Net: NetName=TXDP_A Pin=U6-C11
+Removed Pin From Net: NetName=TXDN_A Pin=U6-C12
+Added Pin To Net: NetName=TXDN_B Pin=U6-C5
+Added Pin To Net: NetName=TXDP_B Pin=U6-C6
+Added Pin To Net: NetName=TXDN_A Pin=U6-C11
+Added Pin To Net: NetName=TXDP_A Pin=U6-C12

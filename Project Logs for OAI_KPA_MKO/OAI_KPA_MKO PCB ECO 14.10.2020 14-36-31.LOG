@@ -1,0 +1,53 @@
+Added Component: Designator=G3(uSiL-8)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Data sheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.ti.com/lit/ds/symlink/tps82130.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DataSheet"; Value = "https://www.ti.com/lit/ds/symlink/tps82130.pdf?ts=1592813288219&ref_url=https%253A%252F%252Fwww.google.com%252F"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ќазначение"; Value = "17-V Input 3-A Step-Down Converter MicroSiPЩ Module with Integrated Inductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ќаименование"; Value = "TPS82130"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ѕотребление, ¬т"; Value = "1,0"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetG3_1 Pin=G3-1
+Added Pin To Net: NetName=GND Pin=G3-3
+Added Pin To Net: NetName=MKO_3V3 Pin=G3-4
+Added Pin To Net: NetName=MKO_3V3 Pin=G3-5
+Added Pin To Net: NetName=NetG3_6 Pin=G3-6
+Added Pin To Net: NetName=NetC54_2 Pin=G3-8
+Added Pin To Net: NetName=GND Pin=G3-9
+Added Member To Class: ClassName=MKO_Part Member=Component C52 0,1мк‘
+Added Member To Class: ClassName=MKO_Part Member=Component C53 10мк‘ 16¬
+Added Member To Class: ClassName=MKO_Part Member=Component C54 0,22мк‘
+Added Member To Class: ClassName=MKO_Part Member=Component G3 TPS82130
+Added Member To Class: ClassName=MKO_Part Member=Component R61 0
+Added Member To Class: ClassName=MKO_Part Member=Component R62 1k
+Added Member To Class: ClassName=MKO_Part Member=Component R63 1k
+Added Member To Class: ClassName=MKO_Part Member=Component R65 1k
+Added Member To Class: ClassName=MKO_Part Member=Component R67 1k
+Added Member To Class: ClassName=MKO_Part Member=Component R70 1k
+Added Member To Class: ClassName=MKO_Part Member=Component R72 1k
+Added Member To Class: ClassName=MKO_Part Member=Component R74 1k
+Added Member To Class: ClassName=MKO_Part Member=Component R76 1k
+Added Member To Class: ClassName=MKO_Part Member=Component R78 1k
+Added Member To Class: ClassName=MKO_Part Member=Component R79 1k
+Added Member To Class: ClassName=MKO_Part Member=Component R81 1k
+Added Member To Class: ClassName=MKO_Part Member=Component R83 1k
+Added Member To Class: ClassName=MKO_Part Member=Component R85 11 кќм
+Added Member To Class: ClassName=MKO_Part Member=Component R86 33кќм
+Added Member To Class: ClassName=MKO_Part Member=Component R87 15кќм
+Added Member To Class: ClassName=MKO_Part Member=Component R89 3к3
+Added Member To Class: ClassName=MKO_Part Member=Component R90 56
+Added Member To Class: ClassName=MKO_Part Member=Component R91 0
+Added Member To Class: ClassName=MKO_Part Member=Component R92 NU
+Added Member To Class: ClassName=MKO_Part Member=Component R93 75
+Added Member To Class: ClassName=MKO_Part Member=Component R95 NU
+Added Member To Class: ClassName=MKO_Part Member=Component R96 11к
+Added Member To Class: ClassName=MKO_Part Member=Component R97 56
+Added Member To Class: ClassName=MKO_Part Member=Component R98 560
+Added Member To Class: ClassName=MKO_Part Member=Component R99 0
+Added Member To Class: ClassName=MKO_Part Member=Component R100 560
+Added Member To Class: ClassName=MKO_Part Member=Component R102 1к
+Added Member To Class: ClassName=MKO_Part Member=Component R104 0
+Added Member To Class: ClassName=MKO_Part Member=Component R106 75
+Added Member To Class: ClassName=MKO_Part Member=Component R107 11к
+Added Member To Class: ClassName=MKO_Part Member=Component R108 NU
+Added Member To Class: ClassName=MKO_Part Member=Component R109 11к
+Added Member To Class: ClassName=MKO_Part Member=Component R110 56

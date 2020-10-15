@@ -1,0 +1,15 @@
+Removed Pin From Net: NetName=RXDP_A Pin=R98-2
+Removed Pin From Net: NetName=RXDP_A Pin=R102-1
+Removed Pin From Net: NetName=RXDP_A Pin=U6-C11
+Added Pin To Net: NetName=RXDP_A Pin=R69-1
+Added Pin To Net: NetName=RXDN_A Pin=R98-2
+Added Pin To Net: NetName=RXDN_A Pin=R102-1
+Added Pin To Net: NetName=RXDP_A Pin=U6-A16
+Added Pin To Net: NetName=RXDN_A Pin=U6-C11
+Change Net Name : Old Net Name=RXDP_A New Net Name=NetR69_1
+Added Pin To Net: NetName=NetR72_1 Pin=R72-1
+Added Pin To Net: NetName=NetR72_1 Pin=U6-A15
+Added Net: Name=NetR72_1
+Added Pin To Net: NetName=NetR73_1 Pin=R73-1
+Added Pin To Net: NetName=NetR73_1 Pin=U6-A13
+Added Net: Name=NetR73_1

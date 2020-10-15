@@ -1,0 +1,22 @@
+Removed Pin From Net: NetName=3.3V Pin=R59-1
+Removed Pin From Net: NetName=MKO_Power Pin=R59-2
+Removed Pin From Net: NetName=MKO_Power Pin=R60-2
+Removed Pin From Net: NetName=MKO_Power Pin=R61-2
+Removed Member From Class: ClassName=MKO_Part Member=R59
+Removed Member From Class: ClassName=MKO_Part Member=R60
+Removed Member From Class: ClassName=MKO_Part Member=R61
+Added Pin To Net: NetName=+5V Pin=C47-1
+Added Pin To Net: NetName=MKO_Power Pin=C53-2
+Added Pin To Net: NetName=MKO_Power Pin=C54-1
+Added Pin To Net: NetName=+5V Pin=G3-2
+Added Pin To Net: NetName=MKO_Power Pin=G3-4
+Added Pin To Net: NetName=MKO_Power Pin=G3-5
+Added Pin To Net: NetName=+5V Pin=R85-2
+Added Pin To Net: NetName=MKO_Power Pin=R86-2
+Added Pin To Net: NetName=MKO_Power Pin=R87-2
+Added Member To Class: ClassName=MKO_Part Member=Component C47 10לךװ 16ֲ
+Added Member To Class: ClassName=MKO_Part Member=Component C49 0,1לךװ
+Added Member To Class: ClassName=MKO_Part Member=Component C51 0,1לךװ
+Added Member To Class: ClassName=MKO_Part Member=Component C53 0,1לךװ
+Added Member To Class: ClassName=MKO_Part Member=Component C55 0,22לךװ
+Added Member To Class: ClassName=MKO_Part Member=Component C57 10לךװ
